@@ -12,3 +12,8 @@ function Food() {
 }
 
 export default Food;
+// {
+//   "devDependencies": {
+//     "gh-pages": "^6.1.1"
+//   }
+// }
