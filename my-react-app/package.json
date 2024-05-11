@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://arislyu.github.io/React-Tut",
+  "homepage": "https://Lyuflora.github.io/React-Tut",
   "type": "module",
   "scripts": {
     "dev": "vite",
